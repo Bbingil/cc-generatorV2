@@ -1,6 +1,6 @@
 OWNER CONTACT :
-TELEGRAM : @zlaxtert
-SITE : https://darkxcode.site
+FACEBOOK : @brentolen
+SITE : https://www.facebook.com/brentolen
 ==================================================================================================
 
 ENGLISH LANGUAGE
