@@ -4,7 +4,7 @@
 /*==========> INFO 
  * CODE     : BY ZLAXTERT
  * SCRIPT   : CC GENERATOR
- * VERSION  : V1
+ * VERSION  : V2
  * TELEGRAM : t.me/zlaxtert
  * BY       : DARKXCODE
  */
