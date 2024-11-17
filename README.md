@@ -1,4 +1,4 @@
-# cc-generatorV1
+# cc-generatorV2
 
 ![PHP](https://img.shields.io/badge/language-PHP-blue.svg)
 ![DARKXCODE](https://img.shields.io/badge/Team-DARKXCODE-black)
