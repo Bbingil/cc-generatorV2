@@ -13,8 +13,8 @@
 ## Install on android (Termux)
     $ pkg install git -y
     $ pkg install php -y
-    $ git clone https://github.com/ZLaxtert/cc-generatorV1.git
-    $ cd cc-generatorV1
+    $ git clone https://github.com/ZLaxtert/cc-generatorV2.git
+    $ cd cc-generatorV2
     $ php cli.php
 
 ## Screenshot
