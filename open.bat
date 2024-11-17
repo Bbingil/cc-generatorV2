@@ -1,6 +1,6 @@
 @echo off
 set PATH=%PATH%;c:\xampp\php
-title CC GENERATOR V1
+title CC GENERATOR V2
 :runez
 
 php cli.php
