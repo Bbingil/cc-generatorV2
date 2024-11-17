@@ -2,11 +2,11 @@
 
 // DONT CHANGE THIS
 /*==========> INFO 
- * CODE     : BY ZLAXTERT
+ * CODE     : BY BRENT BINGIL
  * SCRIPT   : CC GENERATOR
  * VERSION  : V2
- * TELEGRAM : t.me/zlaxtert
- * BY       : DARKXCODE
+ * FACEBOOK : facebook.com/brentolen
+ * BY       : 
  */
 
 
